@@ -4,4 +4,5 @@ Allows people who are in your guild to whisper you a keyword for quick invites t
 
 This addon was written for 3.3.5 servers (Project Epoch) etc
 
-![image](https://github.com/Shadowtoots/GuildPartyInvite/assets/161180239/3d5f1619-8859-473b-9e7e-4fea3bbfe7ae)
+![image](https://github.com/Bennylavaa/GuildPartyInvite/assets/165105701/d411aaba-c666-4fb8-8e8f-73c2d086ff7a)
+
