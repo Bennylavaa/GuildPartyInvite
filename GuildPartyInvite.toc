@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## Title: |cff6699ffG|r|cff66aaffu|r|cff66bbffi|r|cff66ccffl|r|cff66ddffd|r|cff66eeffP|r|cff77ffffa|r|cff88ffffr|r|cff99fffft|r|cffaaffffy|r|cffbbffffI|r|cffccffffn|r|cffddffffv|r|cffffffffite|r
 ## Notes: An addon to automatically invite guild members who whisper a specific keyword.
-## Author: Shadowtoots
+## Author: Bennylavaa
 ## Version: 2.0
 ## SavedVariables: GuildPartyInviteDB
 
